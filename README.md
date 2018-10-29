@@ -1,6 +1,6 @@
 # deep_learning
 Tensorflow Projects
 
-Multiclass classification
-Binary classification
-Image classification using convnets
+1. Multiclass classification
+2. Binary classification
+3. Image classification using convnets
